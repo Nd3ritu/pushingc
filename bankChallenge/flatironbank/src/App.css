@@ -1,0 +1,33 @@
+.App {
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  font-family: "Edu TAS Beginner", sans-serif;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.search {
+  background-color: grey;
+  cursor: grab;
+}
+
+#delete {
+  background-color: grey;
+  cursor: grab;
+}
+
+#update {
+  background-color: grey;
+  cursor: grab;
+}
+
+#title {
+  background-color: grey;
+  height: 10vh;
+  text-align: center;
+  font-family: "Agbalumo", sans-serif;
+}

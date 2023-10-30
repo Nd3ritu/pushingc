@@ -1,0 +1,34 @@
+#### **By Matthew Nderitu 30/10/2023**
+
+## FLatiron bank code challenge
+
+The app displays a User Interface displaying a table of transactions, has the ability to a new transaction information, i.e , description, category,
+and amount.
+
+#### Setup
+
+- Create a new repo , add a license and a readMe.md file
+- Create react app using npx create-react-app <app name>
+- npm install
+
+- run json-server locally
+- use npm start to run the browser and view changes made on the VS code
+- update App component with the child components required for displaying content in the browser
+- Pass data from the db.json from the parent component to the child components as props
+
+## Known bugs
+
+- The app is unable to filter and display transactions by typing the description into the search bar
+
+## Technologies used
+
+-Javascript
+-Css
+-Html
+-Terminal
+-React
+
+## Support and contact details
+
+-Phone :: +254701341577
+-Email :: nderitumw17@gmail.com
